@@ -6,7 +6,7 @@ from py2gcode import cnc_dxf
 
 feedrate = 150.0
 fileName = 'lamp_bracket_array.dxf'
-depth = 0.27
+depth = 0.275
 startZ = 0.0
 safeZ = 0.5
 maxCutDepth = 0.10

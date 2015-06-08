@@ -20,22 +20,22 @@ F 50.0
 ; fileName: lamp_bracket_array.dxf
 ; safeZ: 0.3
 ; dxfTypes: ['CIRCLE']
-; centerX: 1.25
-; centerY: 9.25
+; centerX: 16.25
+; centerY: 9.0
 ; stepZ: 0.05
 
 ; PeckDrill: rapid move to safe z
 G0 Z0.30000000
 
 ; PeckDrill: rapid move to drill x,y
-G0 X1.25000000 Y9.25000000
+G0 X16.25000000 Y9.00000000
 
 ; PeckDrill: dwell
 G4 P0.5
 
 ; PeckDrill: move to start z
 G1 Z0.00000000
-G83 X1.25 Y9.25 Z-0.35 R0.0 Q0.05
+G83 X16.25 Y9.0 Z-0.35 R0.0 Q0.05
 
 ; PeckDrill: rapid move to safe z
 G0 Z0.30000000
@@ -54,22 +54,22 @@ G0 Z0.30000000
 ; fileName: lamp_bracket_array.dxf
 ; safeZ: 0.3
 ; dxfTypes: ['CIRCLE']
-; centerX: 2.85
-; centerY: 9.25
+; centerX: 17.85
+; centerY: 9.0
 ; stepZ: 0.05
 
 ; PeckDrill: rapid move to safe z
 G0 Z0.30000000
 
 ; PeckDrill: rapid move to drill x,y
-G0 X2.85000000 Y9.25000000
+G0 X17.85000000 Y9.00000000
 
 ; PeckDrill: dwell
 G4 P0.5
 
 ; PeckDrill: move to start z
 G1 Z0.00000000
-G83 X2.85 Y9.25 Z-0.35 R0.0 Q0.05
+G83 X17.85 Y9.0 Z-0.35 R0.0 Q0.05
 
 ; PeckDrill: rapid move to safe z
 G0 Z0.30000000
@@ -88,22 +88,22 @@ G0 Z0.30000000
 ; fileName: lamp_bracket_array.dxf
 ; safeZ: 0.3
 ; dxfTypes: ['CIRCLE']
-; centerX: 3.8
-; centerY: 7.45
+; centerX: 18.425
+; centerY: 7.2
 ; stepZ: 0.05
 
 ; PeckDrill: rapid move to safe z
 G0 Z0.30000000
 
 ; PeckDrill: rapid move to drill x,y
-G0 X3.80000000 Y7.45000000
+G0 X18.42500000 Y7.20000000
 
 ; PeckDrill: dwell
 G4 P0.5
 
 ; PeckDrill: move to start z
 G1 Z0.00000000
-G83 X3.8 Y7.45 Z-0.35 R0.0 Q0.05
+G83 X18.425 Y7.2 Z-0.35 R0.0 Q0.05
 
 ; PeckDrill: rapid move to safe z
 G0 Z0.30000000
@@ -122,22 +122,22 @@ G0 Z0.30000000
 ; fileName: lamp_bracket_array.dxf
 ; safeZ: 0.3
 ; dxfTypes: ['CIRCLE']
-; centerX: 3.8
-; centerY: 5.45
+; centerX: 18.425
+; centerY: 5.2
 ; stepZ: 0.05
 
 ; PeckDrill: rapid move to safe z
 G0 Z0.30000000
 
 ; PeckDrill: rapid move to drill x,y
-G0 X3.80000000 Y5.45000000
+G0 X18.42500000 Y5.20000000
 
 ; PeckDrill: dwell
 G4 P0.5
 
 ; PeckDrill: move to start z
 G1 Z0.00000000
-G83 X3.8 Y5.45 Z-0.35 R0.0 Q0.05
+G83 X18.425 Y5.2 Z-0.35 R0.0 Q0.05
 
 ; PeckDrill: rapid move to safe z
 G0 Z0.30000000
@@ -156,22 +156,22 @@ G0 Z0.30000000
 ; fileName: lamp_bracket_array.dxf
 ; safeZ: 0.3
 ; dxfTypes: ['CIRCLE']
-; centerX: 5.45
-; centerY: 9.25
+; centerX: 1.75
+; centerY: 9.0
 ; stepZ: 0.05
 
 ; PeckDrill: rapid move to safe z
 G0 Z0.30000000
 
 ; PeckDrill: rapid move to drill x,y
-G0 X5.45000000 Y9.25000000
+G0 X1.75000000 Y9.00000000
 
 ; PeckDrill: dwell
 G4 P0.5
 
 ; PeckDrill: move to start z
 G1 Z0.00000000
-G83 X5.45 Y9.25 Z-0.35 R0.0 Q0.05
+G83 X1.75 Y9.0 Z-0.35 R0.0 Q0.05
 
 ; PeckDrill: rapid move to safe z
 G0 Z0.30000000
@@ -190,22 +190,22 @@ G0 Z0.30000000
 ; fileName: lamp_bracket_array.dxf
 ; safeZ: 0.3
 ; dxfTypes: ['CIRCLE']
-; centerX: 7.05
-; centerY: 9.25
+; centerX: 3.35
+; centerY: 9.0
 ; stepZ: 0.05
 
 ; PeckDrill: rapid move to safe z
 G0 Z0.30000000
 
 ; PeckDrill: rapid move to drill x,y
-G0 X7.05000000 Y9.25000000
+G0 X3.35000000 Y9.00000000
 
 ; PeckDrill: dwell
 G4 P0.5
 
 ; PeckDrill: move to start z
 G1 Z0.00000000
-G83 X7.05 Y9.25 Z-0.35 R0.0 Q0.05
+G83 X3.35 Y9.0 Z-0.35 R0.0 Q0.05
 
 ; PeckDrill: rapid move to safe z
 G0 Z0.30000000
@@ -224,22 +224,22 @@ G0 Z0.30000000
 ; fileName: lamp_bracket_array.dxf
 ; safeZ: 0.3
 ; dxfTypes: ['CIRCLE']
-; centerX: 8.0
-; centerY: 7.45
+; centerX: 3.925
+; centerY: 7.2
 ; stepZ: 0.05
 
 ; PeckDrill: rapid move to safe z
 G0 Z0.30000000
 
 ; PeckDrill: rapid move to drill x,y
-G0 X8.00000000 Y7.45000000
+G0 X3.92500000 Y7.20000000
 
 ; PeckDrill: dwell
 G4 P0.5
 
 ; PeckDrill: move to start z
 G1 Z0.00000000
-G83 X8.0 Y7.45 Z-0.35 R0.0 Q0.05
+G83 X3.925 Y7.2 Z-0.35 R0.0 Q0.05
 
 ; PeckDrill: rapid move to safe z
 G0 Z0.30000000
@@ -258,22 +258,22 @@ G0 Z0.30000000
 ; fileName: lamp_bracket_array.dxf
 ; safeZ: 0.3
 ; dxfTypes: ['CIRCLE']
-; centerX: 8.0
-; centerY: 5.45
+; centerX: 3.925
+; centerY: 5.2
 ; stepZ: 0.05
 
 ; PeckDrill: rapid move to safe z
 G0 Z0.30000000
 
 ; PeckDrill: rapid move to drill x,y
-G0 X8.00000000 Y5.45000000
+G0 X3.92500000 Y5.20000000
 
 ; PeckDrill: dwell
 G4 P0.5
 
 ; PeckDrill: move to start z
 G1 Z0.00000000
-G83 X8.0 Y5.45 Z-0.35 R0.0 Q0.05
+G83 X3.925 Y5.2 Z-0.35 R0.0 Q0.05
 
 ; PeckDrill: rapid move to safe z
 G0 Z0.30000000
@@ -292,22 +292,22 @@ G0 Z0.30000000
 ; fileName: lamp_bracket_array.dxf
 ; safeZ: 0.3
 ; dxfTypes: ['CIRCLE']
-; centerX: 9.65
-; centerY: 9.25
+; centerX: 5.55
+; centerY: 9.0
 ; stepZ: 0.05
 
 ; PeckDrill: rapid move to safe z
 G0 Z0.30000000
 
 ; PeckDrill: rapid move to drill x,y
-G0 X9.65000000 Y9.25000000
+G0 X5.55000000 Y9.00000000
 
 ; PeckDrill: dwell
 G4 P0.5
 
 ; PeckDrill: move to start z
 G1 Z0.00000000
-G83 X9.65 Y9.25 Z-0.35 R0.0 Q0.05
+G83 X5.55 Y9.0 Z-0.35 R0.0 Q0.05
 
 ; PeckDrill: rapid move to safe z
 G0 Z0.30000000
@@ -326,22 +326,22 @@ G0 Z0.30000000
 ; fileName: lamp_bracket_array.dxf
 ; safeZ: 0.3
 ; dxfTypes: ['CIRCLE']
-; centerX: 11.25
-; centerY: 9.25
+; centerX: 7.15
+; centerY: 9.0
 ; stepZ: 0.05
 
 ; PeckDrill: rapid move to safe z
 G0 Z0.30000000
 
 ; PeckDrill: rapid move to drill x,y
-G0 X11.25000000 Y9.25000000
+G0 X7.15000000 Y9.00000000
 
 ; PeckDrill: dwell
 G4 P0.5
 
 ; PeckDrill: move to start z
 G1 Z0.00000000
-G83 X11.25 Y9.25 Z-0.35 R0.0 Q0.05
+G83 X7.15 Y9.0 Z-0.35 R0.0 Q0.05
 
 ; PeckDrill: rapid move to safe z
 G0 Z0.30000000
@@ -360,22 +360,22 @@ G0 Z0.30000000
 ; fileName: lamp_bracket_array.dxf
 ; safeZ: 0.3
 ; dxfTypes: ['CIRCLE']
-; centerX: 12.2
-; centerY: 7.45
+; centerX: 7.725
+; centerY: 7.2
 ; stepZ: 0.05
 
 ; PeckDrill: rapid move to safe z
 G0 Z0.30000000
 
 ; PeckDrill: rapid move to drill x,y
-G0 X12.20000000 Y7.45000000
+G0 X7.72500000 Y7.20000000
 
 ; PeckDrill: dwell
 G4 P0.5
 
 ; PeckDrill: move to start z
 G1 Z0.00000000
-G83 X12.2 Y7.45 Z-0.35 R0.0 Q0.05
+G83 X7.725 Y7.2 Z-0.35 R0.0 Q0.05
 
 ; PeckDrill: rapid move to safe z
 G0 Z0.30000000
@@ -394,22 +394,22 @@ G0 Z0.30000000
 ; fileName: lamp_bracket_array.dxf
 ; safeZ: 0.3
 ; dxfTypes: ['CIRCLE']
-; centerX: 12.2
-; centerY: 5.45
+; centerX: 7.725
+; centerY: 5.2
 ; stepZ: 0.05
 
 ; PeckDrill: rapid move to safe z
 G0 Z0.30000000
 
 ; PeckDrill: rapid move to drill x,y
-G0 X12.20000000 Y5.45000000
+G0 X7.72500000 Y5.20000000
 
 ; PeckDrill: dwell
 G4 P0.5
 
 ; PeckDrill: move to start z
 G1 Z0.00000000
-G83 X12.2 Y5.45 Z-0.35 R0.0 Q0.05
+G83 X7.725 Y5.2 Z-0.35 R0.0 Q0.05
 
 ; PeckDrill: rapid move to safe z
 G0 Z0.30000000
@@ -428,22 +428,22 @@ G0 Z0.30000000
 ; fileName: lamp_bracket_array.dxf
 ; safeZ: 0.3
 ; dxfTypes: ['CIRCLE']
-; centerX: 15.25
-; centerY: 9.25
+; centerX: 9.35
+; centerY: 9.0
 ; stepZ: 0.05
 
 ; PeckDrill: rapid move to safe z
 G0 Z0.30000000
 
 ; PeckDrill: rapid move to drill x,y
-G0 X15.25000000 Y9.25000000
+G0 X9.35000000 Y9.00000000
 
 ; PeckDrill: dwell
 G4 P0.5
 
 ; PeckDrill: move to start z
 G1 Z0.00000000
-G83 X15.25 Y9.25 Z-0.35 R0.0 Q0.05
+G83 X9.35 Y9.0 Z-0.35 R0.0 Q0.05
 
 ; PeckDrill: rapid move to safe z
 G0 Z0.30000000
@@ -462,22 +462,22 @@ G0 Z0.30000000
 ; fileName: lamp_bracket_array.dxf
 ; safeZ: 0.3
 ; dxfTypes: ['CIRCLE']
-; centerX: 16.85
-; centerY: 9.25
+; centerX: 10.95
+; centerY: 9.0
 ; stepZ: 0.05
 
 ; PeckDrill: rapid move to safe z
 G0 Z0.30000000
 
 ; PeckDrill: rapid move to drill x,y
-G0 X16.85000000 Y9.25000000
+G0 X10.95000000 Y9.00000000
 
 ; PeckDrill: dwell
 G4 P0.5
 
 ; PeckDrill: move to start z
 G1 Z0.00000000
-G83 X16.85 Y9.25 Z-0.35 R0.0 Q0.05
+G83 X10.95 Y9.0 Z-0.35 R0.0 Q0.05
 
 ; PeckDrill: rapid move to safe z
 G0 Z0.30000000
@@ -496,22 +496,22 @@ G0 Z0.30000000
 ; fileName: lamp_bracket_array.dxf
 ; safeZ: 0.3
 ; dxfTypes: ['CIRCLE']
-; centerX: 17.8
-; centerY: 7.45
+; centerX: 11.525
+; centerY: 7.2
 ; stepZ: 0.05
 
 ; PeckDrill: rapid move to safe z
 G0 Z0.30000000
 
 ; PeckDrill: rapid move to drill x,y
-G0 X17.80000000 Y7.45000000
+G0 X11.52500000 Y7.20000000
 
 ; PeckDrill: dwell
 G4 P0.5
 
 ; PeckDrill: move to start z
 G1 Z0.00000000
-G83 X17.8 Y7.45 Z-0.35 R0.0 Q0.05
+G83 X11.525 Y7.2 Z-0.35 R0.0 Q0.05
 
 ; PeckDrill: rapid move to safe z
 G0 Z0.30000000
@@ -530,22 +530,22 @@ G0 Z0.30000000
 ; fileName: lamp_bracket_array.dxf
 ; safeZ: 0.3
 ; dxfTypes: ['CIRCLE']
-; centerX: 17.8
-; centerY: 5.45
+; centerX: 11.525
+; centerY: 5.2
 ; stepZ: 0.05
 
 ; PeckDrill: rapid move to safe z
 G0 Z0.30000000
 
 ; PeckDrill: rapid move to drill x,y
-G0 X17.80000000 Y5.45000000
+G0 X11.52500000 Y5.20000000
 
 ; PeckDrill: dwell
 G4 P0.5
 
 ; PeckDrill: move to start z
 G1 Z0.00000000
-G83 X17.8 Y5.45 Z-0.35 R0.0 Q0.05
+G83 X11.525 Y5.2 Z-0.35 R0.0 Q0.05
 
 ; PeckDrill: rapid move to safe z
 G0 Z0.30000000

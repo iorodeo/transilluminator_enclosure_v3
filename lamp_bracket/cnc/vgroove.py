@@ -17,7 +17,7 @@ prog.add(gcode_cmd.FeedRate(feedrate))
 param = {
         'fileName'    : fileName,
         'layers'      : ['vgroove'],
-        'depth'       : 0.75*stockThickness,
+        'depth'       : 0.8*stockThickness,
         'startZ'      : 0.0,
         'safeZ'       : 0.5,
         'toolDiam'    : 0.25,
