@@ -1,4 +1,3 @@
 python boundary.py
-python insert_drill_4-40.py
-python insert_drill_8-32.py
+python pocket_drill.py
 python vgroove.py
